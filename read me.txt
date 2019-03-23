@@ -1,0 +1,12 @@
+running instructions:
+step #1. run the driver.py file using "python driver.py" command in the cmd
+step #2. follow the prompts as requested
+
+running example: 
+
+Enter the path to training directory for ham files: train/ham
+Enter the path to training directory for spam files: train/spam
+Enter the path to testing directory for ham files: test/ham
+Enter the path to testing directory for ham files: test/spam
+Select a learning algorithm: [NB or LR] nb
+Include stop words? [Y or N] n
